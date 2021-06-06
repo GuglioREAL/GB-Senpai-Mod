@@ -6,7 +6,7 @@
 Links: **[itch.io page](https://ninja-muffin24.itch.io/funkin) ⋅ [Newgrounds](https://www.newgrounds.com/portal/view/770371) ⋅ [source code on GitHub](https://github.com/ninjamuffin99/Funkin)**
 
 
-## Website ([Star-blades](https://star-blades.com/)
+## Website ([Star-blades](https://star-blades.com/))
 
 # Features
 
