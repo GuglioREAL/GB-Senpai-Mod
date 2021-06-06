@@ -310,7 +310,7 @@ class TitleState extends MusicBeatState
 			{
 				// Get current version of Kade Engine
 				
-				var http = new haxe.Http("https://raw.githubusercontent.com/KadeDev/Kade-Engine/master/version.downloadMe");
+				var http = new haxe.Http("https://raw.githubusercontent.com/GameVasionYT/GB-Senpai-Mod/main/version.downloadMe");
 				var returnedData:Array<String> = [];
 				
 				http.onData = function (data:String)
@@ -446,8 +446,14 @@ class TitleState extends MusicBeatState
 			// credTextShit.text += '\nNight';
 			case 15:
 				addMoreText('Funkin'); // credTextShit.text += '\nFunkin';
-
 			case 16:
+				addMoreText('GB Senpai');
+			// credTextShit.text += true;
+			case 17:
+				addMoreText('Full Week');
+				// credTextShit.text += true;
+
+			case 19:
 				skipIntro();
 		}
 	}
