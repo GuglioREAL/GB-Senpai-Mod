@@ -10,7 +10,7 @@ Links: **[itch.io page](https://ninja-muffin24.itch.io/funkin) ⋅ [Newgrounds](
 
 # Features
 
-GB Senpai is built using Kade Engine
+GB Senpai is built using Kade Engine\n
 Features [here](https://github.com/KadeDev/Kade-Engine#features)
 
 # Credits
