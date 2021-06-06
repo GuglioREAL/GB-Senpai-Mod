@@ -1,9 +1,9 @@
 # Friday Night Funkin': GB Senpai
+> Uh oh! You got sucked into a... a gameboy??
 ## Friday Night Funkin'
 **Friday Night Funkin'** is a rhythm game originally made for Ludum Dare 47 "Stuck In a Loop".
 
 Links: **[itch.io page](https://ninja-muffin24.itch.io/funkin) ⋅ [Newgrounds](https://www.newgrounds.com/portal/view/770371) ⋅ [source code on GitHub](https://github.com/ninjamuffin99/Funkin)**
-> Uh oh! You got sucked into a... a gameboy??
 
 
 ## Website ([Star-blades](https://star-blades.com/)
@@ -11,6 +11,7 @@ Links: **[itch.io page](https://ninja-muffin24.itch.io/funkin) ⋅ [Newgrounds](
 # Features
 
 GB Senpai is built using Kade Engine
+Features [here](https://github.com/KadeDev/Kade-Engine#features)
 
 # Credits
 ### Friday Night Funkin'
