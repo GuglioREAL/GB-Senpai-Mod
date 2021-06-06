@@ -78,4 +78,4 @@ This game was made with love to Newgrounds and its community. Extra love to Tom 
 
 
 
-### POG CHANP
+### POG CHAMP
